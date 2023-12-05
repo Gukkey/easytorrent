@@ -4,6 +4,9 @@
 # Maven
 target/
 
+# Intellij
+.idea
+
 # Java
 *.class
 *.jar
