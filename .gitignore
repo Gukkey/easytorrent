@@ -6,7 +6,6 @@ target/
 
 # IntelliJ
 .idea/
-*/gitignore
 
 # Java
 *.class
