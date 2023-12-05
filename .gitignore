@@ -1,0 +1,11 @@
+
+# Visual Studio Code
+.vscode/
+# Maven
+target/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
